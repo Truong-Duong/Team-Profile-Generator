@@ -1,0 +1,30 @@
+{
+  "name": "team-profile-generator",
+  "version": "1.0.0",
+  "description": "OOP Homewrok for Week-10",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "inquirer": "^8.1.2",
+    "jest": "^27.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Truong-Duong/Team-Profile-Generator.git"
+  },
+  "keywords": [
+    "1996"
+  ],
+  "author": "Truong Duong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Truong-Duong/Team-Profile-Generator/issues"
+  },
+  "homepage": "https://github.com/Truong-Duong/Team-Profile-Generator#readme"
+}
